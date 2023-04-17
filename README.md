@@ -1,5 +1,4 @@
 
-
 ## 👋 Hello! 👋
 
 My name is John Mook and I'm a Full-stack Software Engineer. After over a decade in the coffee industry, I decided to brew up something new. I'm inspired by intuitive design and creative thinking.
@@ -32,7 +31,7 @@ A notes app to be used for end of day notes at 4 Letter Word Coffee. Users can l
 
 
 ## Skills
-
+<div>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -42,7 +41,7 @@ A notes app to be used for end of day notes at 4 Letter Word Coffee. Users can l
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-
+</div>
 
 <!--
 **jedwardmook/jedwardmook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
