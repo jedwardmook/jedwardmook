@@ -8,7 +8,9 @@ My name is John Mook and I'm a Full-stack Software Engineer. After over a decade
 
 ## 🌱
 
-Current repository with link
+__Four Letter Books__-
+
+Application to archive the large amount of books received by 4LW using a React frontend, Rails backend and the Open Library API.
 
 ## 🌳
 
